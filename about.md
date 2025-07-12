@@ -31,14 +31,3 @@ Hi! My name is Zhen Dong (<small>Hangul:</small> <span style="font-family:Sans-s
 <a href="https://en.wikipedia.org/wiki/Hokkien"><strong>Hokkien</strong></a> has always been a spoken language first, and figuring out how to write it properly has been a challenge. Chinese characters and Romanisation systems exist, but they don’t always feel natural. Hangul not only offers an interesting way to capture its sounds more consistently as a phonetic script but also matches the block-based aesthetics of East Asian writings.
 
 Whether you’re a serious learner or just casually exploring, feel free to look around, read, and see how Hokkien can be written in a brand new way, just here to document and share what I find along the way.
-
----
-
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
