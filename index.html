@@ -3,93 +3,92 @@ layout: default
 ---
 
 <div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
-        Teaser Image
-    </div>
+  <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
+    Teaser Image
+  </div>
 </div>
 
 <header class="blog-header">
-    {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
-    {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
-    <div class="custom-links">
-      {% for social in site.social %}
-        {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
-              <i class="fa fa-{{ social.icon }}"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        {% endif %}
-      {% endfor %}
-      <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
-    </div>
+  {% if site.logo %}
+    <a class="blog-logo" href="{{ site.url }}{{ site.baseurl }}" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
+  {% endif %}
+  <h1 class="blog-title">{{ site.title }}</h1>
+  <h2 class="blog-description">{{ site.description }}</h2>
+  <div class="custom-links">
+    {% for social in site.social %}
+      {% if social.url %}
+        <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}>
+          <i class="fa fa-{{ social.icon }}"></i>
+        </a>
+        &nbsp;&nbsp;·&nbsp;&nbsp;
+      {% endif %}
+    {% endfor %}
+    <a href="{{ '/about/' | prepend: site.baseurl }}">About</a>
+  </div>
 </header>
-
 
 <main class="content" role="main">
 
-    {% if site.tags.featured %}
-    <h5 class="index-headline featured"><span>Featured</span></h5>
+  <!-- Short Stories Section -->
+  <section class="stories">
+    <h2 class="index-headline has-text-align-center">短篇小說 Short stories</h2>
+    <div class="wp-block-columns">
+      <div class="wp-block-column">
+        <a href="{{ '/2025/01/26/%eb%8a%a5-%e5%8d%b5-the-egg/' | prepend: site.baseurl }}" class="cover-link">
+          <div class="cover-image" style="background-image: url('https://hokkienlang.wordpress.com/wp-content/uploads/2024/12/the-egg.png');"></div>
+          <p class="cover-text"><b><ruby style="position: relative">능<rt style="font-size:110%;position:absolute;top:-1.13em;left:0.24em">ˍ</rt></ruby></b></p>
+        </a>
+      </div>
+      <div class="wp-block-column">
+        <a href="{{ '/2025/03/15/%ed%82%81%eb%93%b8%ec%8b%a0%e1%84%8b%e1%85%b7-%e5%9b%a5%e4%bd%87%e8%ba%ab%e5%be%8c-left-behind/' | prepend: site.baseurl }}" class="cover-link">
+          <div class="cover-image" style="background-image: url('https://hokkienlang.wordpress.com/wp-content/uploads/2025/03/left_behind_v3.0.png'); background-position:27% 50%;"></div>
+          <p class="cover-text"><b><ruby style="position: relative">킁<rt style="font-size:110%;position:absolute;top:-1.15em;left:0.2em">ˎ</rt></ruby>듸<ruby style="position: relative">신<rt style="font-size:110%;position:absolute;top:-1.15em;left:0.24em">ˍ</rt></ruby></b></p>
+        </a>
+      </div>
+      <div class="wp-block-column">
+        <a href="{{ '/2025/05/25/%ec%a7%87%ec%88%9f%ed%97%9d%ec%82%90%ec%b0%93%eb%a1%bc%ec%97%90%eb%bc%b9%ec%85%a9-%e4%b8%80%e5%b1%92%e9%a2%a8%e5%be%ae%E6%97%A5%E6%9A%96%E7%9A%84%E5%86%A5%E6%83%B3/' | prepend: site.baseurl }}" class="cover-link">
+          <div class="cover-image" style="background-image: url('https://hokkienlang.wordpress.com/wp-content/uploads/2024/12/hongbijitloan.png');"></div>
+          <p class="cover-text"><b>짇<ruby style="position: relative">숟<rt style="font-size:110%;position:absolute;top:-1.13em;left:0.17em">ꞈ</rt></ruby></b></p>
+        </a>
+      </div>
+    </div>
+  </section>
 
-    <div class="container featured">
-      {% for post in site.tags.featured %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          </div>
-        </article>
-      {% endfor %}
+  <hr class="wp-block-separator"/>
+
+  <!-- Learn Hokkien Hangul Section -->
+  <section class="learn">
+    <h2 class="index-headline has-text-align-center">泉漳諺文學習 Learn Hokkien Hangul</h2>
+    <div style="margin-top:2em;"></div>
+    <div class="wp-block-buttons">
+      <div class="wp-block-button"><a class="wp-block-button__link has-dark-gray-background-color has-background has-medium-font-size has-text-align-center" href="{{ '/how-to-read-hokkien-hangul-zh-tw/' | prepend: site.baseurl }}">以中文（繁）開始學習</a></div>
+      <div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-bright-blue-background-color has-background has-medium-font-size has-text-align-center" href="{{ '/how-to-read-hokkien-hangul-zh-cn/' | prepend: site.baseurl }}">以中文（简）開始學習</a></div>
+      <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-medium-font-size has-text-align-center" href="{{ '/how-to-read-hokkien-hangul/' | prepend: site.baseurl }}">Start learning in English</a></div>
+    </div>
+  </section>
+
+  <hr class="wp-block-separator is-style-default"/>
+
+  <!-- Songs Section -->
+  <section class="songs">
+    <h2 class="index-headline has-text-align-center">歌曲 Songs</h2>
+    <div style="margin-top:2em;"></div>
+    <div class="wp-block-buttons">
+      <div class="wp-block-button"><a class="wp-block-button__link" href="{{ '/2024/11/17/家後-게ᄋᅷ-諺文歌詞/' | prepend: site.baseurl }}">家後</a></div>
+      <div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="{{ '/2024/11/24/天烏烏-틸어어-諺文歌詞/' | prepend: site.baseurl }}">天烏烏</a></div>
+      <div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="{{ '/2024/11/30/歡喜就好-활히둏호-諺文歌詞/' | prepend: site.baseurl }}">歡喜就好</a></div>
+      <div class="wp-block-button"><a class="wp-block-button__link" href="{{ '/2024/12/07/浪子回頭-렁즈훼ᄐᅷ-諺文歌詞/' | prepend: site.baseurl }}">浪子回頭</a></div>
+      <!-- …and so on for each song button… -->
+      <div class="wp-block-button"><a class="wp-block-button__link" href="{{ '/2025/07/09/小雨-쇼허-諺文歌詞/' | prepend: site.baseurl }}">小雨</a></div>
     </div>
 
-    <h5 class="index-headline normal"><span>Regular</span></h5>
-    {% endif %}
-
-    <div class="cf frame">
-      {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          </div>
-        </article>
-      {% endfor %}
-    </div>
-
-    <nav class="pagination" role="navigation">
-      {% if paginator.next_page %}
-        <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
-        {% else %}
-          <a class="older-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.previous_page }}>Newer posts &rarr;</a>
-        {% endif %}
-      {% endif %}
-    </nav>
-
-
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
+    <div style="margin-bottom:5em;"></div>
+    <ul class="wp-block-jetpack-sharing-buttons has-normal-icon-size">
+      <li><a href="#" class="sharing-button share">Share</a></li>
+      <li><a href="#" class="sharing-button facebook">Facebook</a></li>
+      <li><a href="#" class="sharing-button reddit">Reddit</a></li>
+      <li><a href="#" class="sharing-button threads">Threads</a></li>
+    </ul>
+  </section>
 
 </main>
