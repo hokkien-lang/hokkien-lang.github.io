@@ -1,5 +1,5 @@
 # Site settings
-title: "Hokkien Hangul"
+title: "HokkienLang"
 description: "泉漳話・福建話・台灣話"
 author: "ZD"
 email: your@email.com
@@ -15,9 +15,3 @@ paginate: 5
 # GitHub Pages settings
 url: "https://hokkien-lang.github.io"
 baseurl: ""
-
-# Social (optional)
-social:
-  - icon: github
-    url: https://github.com/hokkien-lang
-    desc: Fork me on GitHub
