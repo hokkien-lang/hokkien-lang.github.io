@@ -442,19 +442,19 @@ body
       list-style-type: decimal
     
     // Extra: target Hangul text
-    [lang^="ko"], .hangul-text
+    [lang^="ko"]:not(ruby rt), .hangul-text:not(ruby rt)
       line-height: 40px
       font-family: sans-serif, "Noto Sans KR"
   
     // Extra: target Chinese text
-    [lang^="zh"], .chinese-text
+    [lang^="zh"]:not(ruby rt), .chinese-text:not(ruby rt)
       font-size: 20px
       line-height: 40px
       font-family: sans-serif, "Noto Serif TC", "Noto Serif SC"
 
     ruby.ruby
       rt
-        font-family: "Noto Sans", sans-serif !important
+        font-family: sans-serif, "Noto Sans" !important
         font-style: normal !important
         font-weight: normal !important
         font-size: 120% !important
