@@ -8,4 +8,4 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 permalink: /2025/07/13/ai-piaa-ziah-e-iaa/
 ---
 
-# <ruby>애<rt>ˎ</rt></ruby>뱔 <ruby>쟣<rt>ꞈ</rt></ruby>에<ruby>얄<rt>ˏ</rt></ruby>
+# <ruby style='position: relative'>애<rt style='font-size: 250%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˎ</rt></ruby>뱔 <ruby style='position: relative'>쟣<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ꞈ</rt></ruby>에<ruby style='position: relative'>얄<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˏ</rt></ruby>
