@@ -440,6 +440,19 @@ body
         padding: 0 0 golden-ratio(1rem,  1)
     ol li
       list-style-type: decimal
+
+    // Extra: target Hangul text
+    [lang^="ko"], .hangul-text
+      font-size: 20px
+      line-height: 40px
+      font-family: sans-serif, "Noto Sans KR"
+  
+    // Extra: target Chinese text
+    [lang^="zh"], .chinese-text
+      font-size: 20px
+      line-height: 40px
+      font-family: sans-serif, "Noto Serif TC", "Noto Serif SC"
+      
   .bottom-teaser
     padding: 50px 0
     font-family: $font-sans
