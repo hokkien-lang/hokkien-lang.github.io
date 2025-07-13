@@ -18,6 +18,7 @@ permalink: /2025/07/13/ai-piaa-ziah-e-iaa/
   allowfullscreen>
 </iframe>
 
+<br>
 <!-- #1 -->
 
 <p style='font-family:Sans-serif, Noto Sans'>
@@ -65,6 +66,7 @@ permalink: /2025/07/13/ai-piaa-ziah-e-iaa/
     </span>
 </p>
 
+<br>
 <!-- #2 -->
 
 <p style='font-family:Sans-serif, Noto Sans'>
@@ -103,6 +105,7 @@ permalink: /2025/07/13/ai-piaa-ziah-e-iaa/
     </span>
 </p>
 
+<br>
 <!-- #3 -->
 
 <p style='font-family:Sans-serif, Noto Sans'>
