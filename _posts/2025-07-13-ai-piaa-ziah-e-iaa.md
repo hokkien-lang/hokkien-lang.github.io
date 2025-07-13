@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "愛拚才會贏"
+title:  "愛拚才會贏 諺文歌詞"
 date:   2025-07-13
 categories: songs
 tags: taiwanese
