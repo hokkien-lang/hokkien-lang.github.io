@@ -19,7 +19,7 @@ permalink: /about/
 ---
 
 <p>
-嗨你好！我是震東（<small>諺文：<span style="font-family:Sans-serif, Noto Sans"><ruby style="position: relative">진<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ˎ</rt></ruby><ruby style="position: relative">덩<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ꞈ</rt></ruby></span>，羅馬化：Zìn-tông</small>），歡迎來到 <em>HokkienLang</em>！這裡是我用<strong><a href="https://zh.wikipedia.org/wiki/%E8%AB%BA%E6%96%87">諺文字母</a></strong>（也就是韓文所使用的文字）記錄泉漳話的地方。你會在這裡看到<strong>以諺文書寫的故事</strong>。
+嗨你好！我是震東<small>（諺文：<span style="font-family:Sans-serif, Noto Sans"><ruby style="position: relative">진<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ˎ</rt></ruby><ruby style="position: relative">덩<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ꞈ</rt></ruby></span>，羅馬化：Zìn-tông）</small>，歡迎來到 <em>HokkienLang</em>！這裡是我用<strong><a href="https://zh.wikipedia.org/wiki/%E8%AB%BA%E6%96%87">諺文字母</a></strong>（也就是韓文所使用的文字）記錄泉漳話的地方。你會在這裡看到<strong>以諺文書寫的故事</strong>。
 
 <a href="https://zh.wikipedia.org/wiki/%E6%B3%89%E6%BC%B3%E7%89%87"><strong>泉漳話（Hokkien）</strong></a>長久以來以口語為主，甚至在中文裡沒有統一的名稱<strong>*</strong>，所以要怎麼把它寫下來一直是一個挑戰。雖然目前有漢字和羅馬字系統的存在，但它們讀寫起來都不太直覺。諺文作為一種表音文字，不僅能系統性地表達泉漳話的發音，也符合漢字文化圈所習慣的方塊字型。
 
@@ -28,7 +28,7 @@ permalink: /about/
 
 ---
 
-Hi! My name is Zhen Dong (<small>Hangul: <span style="font-family:Sans-serif, Noto Sans"><ruby style="position: relative">진<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ˎ</rt></ruby><ruby style="position: relative">덩<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ꞈ</rt></ruby></span>, Romanised: Zìn-tông</small>), and welcome to <em>HokkienLang</em>, a space where I document Hokkien using <a href="https://en.wikipedia.org/wiki/Hangul"><strong>Hangul</strong></a>. Here, you’ll find <strong>stories written in Hokkien Hangul</strong>.
+Hi! My name is Zhen Dong <small>(Hangul: <span style="font-family:Sans-serif, Noto Sans"><ruby style="position: relative">진<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ˎ</rt></ruby><ruby style="position: relative">덩<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ꞈ</rt></ruby></span>, Romanised: Zìn-tông)</small>, and welcome to <em>HokkienLang</em>, a space where I document Hokkien using <a href="https://en.wikipedia.org/wiki/Hangul"><strong>Hangul</strong></a>. Here, you’ll find <strong>stories written in Hokkien Hangul</strong>.
 
 <a href="https://en.wikipedia.org/wiki/Hokkien"><strong>Hokkien</strong></a> has always been a spoken language first, and figuring out how to write it properly has been a challenge. Chinese characters and Romanisation systems exist, but they don’t always feel natural. Hangul not only offers an interesting way to capture its sounds more consistently as a phonetic script but also matches the block-based aesthetics of East Asian writings.
 
