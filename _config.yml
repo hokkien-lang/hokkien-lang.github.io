@@ -15,14 +15,14 @@ email: your@email.com
 logo: "/assets/images/HokkienLang_blog_logo.png"
 float_logo: true
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author_zd.jpg"
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'ZD Woo'
+author: 'ZD Woo'
+author_image: "/assets/images/author_zd.jpg"
 
 paginate:	5
 
