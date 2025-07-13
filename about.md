@@ -26,6 +26,9 @@ permalink: /about/
 不管你是想要認真學習還是只是隨意看看，都可以來閱讀我寫的文章、看看泉漳話嶄新的另一種寫法，以及我分享的內容。
 </p>
 
+<p>
+  <small>* 又稱作<a href="https://zh.wikipedia.org/wiki/%E5%BB%88%E9%96%80%E8%A9%B1">閩南語</a>、<a href="https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8D%97%E4%BA%9A%E7%A6%8F%E5%BB%BA%E8%AF%9D">福建話</a>、<a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A9%B1">台語</a>。</small>
+</p>
 ---
 
 Hi! My name is Zhen Dong <small>(Hangul: <span style="font-family:Sans-serif, Noto Sans"><ruby style="position: relative">진<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ˎ</rt></ruby><ruby style="position: relative">덩<rt style="font-size:120%;position:absolute;top: -1.15em;left: 0.2em;z-index: -1">ꞈ</rt></ruby></span>, Romanised: Zìn-tông)</small>, and welcome to <em>HokkienLang</em>, a space where I document Hokkien using <a href="https://en.wikipedia.org/wiki/Hangul"><strong>Hangul</strong></a>. Here, you’ll find <strong>stories written in Hokkien Hangul</strong>.
