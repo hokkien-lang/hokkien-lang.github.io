@@ -1,3 +1,5 @@
+markdown: kramdown
+
 # Build settings
 gems:
   - jemoji
@@ -28,22 +30,12 @@ paginate:	5
 url: "https://thehokkienlang.github.io"
 baseurl: ""
 
-#used to display twitter cards
-twitter_handle: '@dirkfabisch'
-
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
 #google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -51,13 +43,6 @@ social:
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
