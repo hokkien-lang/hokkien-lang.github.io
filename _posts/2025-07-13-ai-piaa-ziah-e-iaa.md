@@ -20,7 +20,6 @@ permalink: /2025/07/13/ai-piaa-ziah-e-iaa/
   </iframe>
 </div>
 
-<br>
 <!-- #1 -->
 
 <p style='font-family:Sans-serif, Noto Sans'>
