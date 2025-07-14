@@ -8,8 +8,9 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 permalink: /2025/03/15/left-behind/
 ---
 
-# 囥佇身後 Left Behind
+# <ruby style='position: relative'>긍<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˎ</rt></ruby>듸<ruby style='position: relative'>신<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˍ</rt></ruby><ruby style='position: relative'>ᄋᅷ<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˍ</rt></ruby>
 
+<br>
 <!-- wp:html -->
 <p style='font-family:Sans-serif, Noto Sans'>
     <img src="https://hokkienlang.wordpress.com/wp-content/uploads/2025/03/left_behind_v3.0.png" alt="" class="wp-image-3034" style="width:120px;height:auto;float:right" />
@@ -30,9 +31,9 @@ permalink: /2025/03/15/left-behind/
 <!-- /wp:separator -->
 
 <!-- wp:embed {"url":"https://soundcloud.com/haruzd/left-behind-part-1-hokkien","type":"rich","providerNameSlug":"soundcloud","responsive":true} -->
-<figure class="wp-block-embed is-type-rich is-provider-soundcloud wp-block-embed-soundcloud"><div class="wp-block-embed__wrapper">
-https://soundcloud.com/haruzd/left-behind-part-1-hokkien
-</div></figure>
+<div class="embed">
+    <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2120627811&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/haruzd" title="HaruZD" target="_blank" style="color: #cccccc; text-decoration: none;">HaruZD</a> · <a href="https://soundcloud.com/haruzd/left-behind-part-1-hokkien" title="Left Behind Part 1 (Hokkien audio)" target="_blank" style="color: #cccccc; text-decoration: none;">Left Behind Part 1 (Hokkien audio)</a></div>
+</div>
 <!-- /wp:embed -->
 
 <!-- wp:html -->
@@ -44,6 +45,7 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
 </div>
 <!-- /wp:html -->
 
+<br>
 <!-- wp:html -->
 <!-- #1-1 -->
 <!-- /wp:html -->
@@ -167,7 +169,7 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
     </td>
   </tr>
 </table>
-</div>
+
 <div style="clear: both;margin-bottom: 1em"></div>
 <!-- /wp:html -->
 
@@ -180,6 +182,7 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
 </div>
 <!-- /wp:html -->
 
+<br>
 <!-- wp:html -->
 <!-- #2-1~3 -->
 
@@ -259,6 +262,7 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
 </div>
 <!-- /wp:html -->
 
+<br>
 <!-- wp:html -->
 <!-- #3-1 -->
 <!-- /wp:html -->
@@ -322,6 +326,7 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
 </div>
 <!-- /wp:html -->
 
+<br>
 <!-- wp:html -->
 <!-- #4-1 -->
 <!-- /wp:html -->
@@ -399,13 +404,13 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
 <!-- wp:html -->
 <table class="wp-block-table alignleft" style="border: none;font-size: 14px">
   <tr>
-    <td style="border: none;vertical-align: top;min-width: 5em;padding-right: 1.5em;padding-left: 0;padding-top: 0;padding-bottom: 0">
+    <td style="border: none;vertical-align: top;min-width: 3em;padding-right: 1.5em;padding-left: 0;padding-top: 0;padding-bottom: 0">
   <a href="#_ftnref3" id="_ftn3">³</a>
   <i>
-    <span style="display: inline-flex;font-style: italic">
+    <span style="display: inline-flex">
       <ruby style='position: relative'>침<rt style='font-size: 120%;position: absolute;top: -1em;left: 0.5em;z-index: -1'>ꞈ</rt></ruby><ruby style='position: relative'>쳭<rt style='font-size: 120%;position: absolute;top: -1em;left: 0.5em;z-index: -1'>ꞈ</rt></ruby>
     </span>
-    <span> :</span>
+  </i> :
 </td>
     <td style="border: none;padding: 0">
         (中) <a href="https://ctext.org/dictionary.pl?if=gb&amp;char=%E8%B8%B8">踸踔</a>，行走時步伐不一，緩急交錯。<br>
@@ -425,6 +430,7 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
 </div>
 <!-- /wp:html -->
 
+<br>
 <!-- wp:html -->
 <!-- #5-1 -->
 <!-- /wp:html -->
@@ -508,6 +514,7 @@ https://soundcloud.com/haruzd/left-behind-part-1-hokkien
 </div>
 <!-- /wp:html -->
 
+<br>
 <!-- wp:html -->
 <!-- #6-1 -->
 <!-- /wp:html -->
