@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "歡喜就好 諺文歌詞"
-date:   2025-07-14
+date:   2024-11-30 00:00:00
 categories: songs
 tags: taiwanese
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
-permalink: /2025/07/14/hoaa-hi-tioh-ho/
+permalink: /2024/11/30/hoaa-hi-tioh-ho/
 ---
 
 # <ruby style='position: relative'>활<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˍ</rt></ruby><ruby style='position: relative'>히<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˎ</rt></ruby> 둏<ruby style='position: relative'>호<rt style='font-size: 120%; position: absolute; top: -1.15em; left: 0.2em; z-index: -1;'>ˎ</rt></ruby>
